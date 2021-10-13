@@ -5,20 +5,23 @@ It Is very Simple too.
 
 Step 1
 Import it.
-
+<code>
 <script type="text/javascript" src="https://raw.githubusercontent.com/AnthonyOpenSource/GitTagList/main/gittaglist.js">
- 
+ </code>
 Step 2
 Create the Container (Can use text-align or sizing.)
+ <code>
 <div id="gittags">
 </div>
+ </code>
   
 Step 3
 Make it Work
+<code>
 <script type="text/javascript">
  GitListaddTagElement("gittags","[Your Github Name]/[Repository Name]");
 </script>
-  
+ </code>
  Step 4
  Customize ✨
  <code>
