@@ -14,8 +14,8 @@ Step 2
 Create the Container (Can use text-align or sizing.)
  <br>
  <code>
-<div id="gittags">
-</div>
+   #<div id="gittags">
+   #</div>
  </code>
   <br>
 Step 3
