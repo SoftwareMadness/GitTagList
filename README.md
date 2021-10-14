@@ -13,7 +13,7 @@ Import it.
 Step 2
 Create the Container (Can use text-align or sizing.)
  <br>
- Just create a dive with an id like gittags
+ Just create a div with an id like gittags
   <br>
 Step 3
 Make it Work
