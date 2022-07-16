@@ -7,7 +7,7 @@ Step 1
 Import it.
 <br>
 <code>
-<script type="text/javascript" src="https://raw.githubusercontent.com/AnthonyOpenSource/GitTagList/main/gittaglist.js">
+<script type="text/javascript" src="https://raw.githubusercontent.com/SoftwareMadness/GitTagList/main/gittaglist.js">
  </code>
  <br>
 Step 2
