@@ -1,3 +1,4 @@
+console.log("GitTagList is now located at  https://raw.githubusercontent.com/SoftwareMadness/GitTagList/main/gittaglist.js");
 function dispTags(data,id,repo)
 {
   for(var i = 0;i < data.length;i++)
